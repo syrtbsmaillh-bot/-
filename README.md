@@ -1,2 +1,1 @@
-# -
-موزیک پلیر
+pygame.mixer.init()
